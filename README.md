@@ -38,4 +38,4 @@
 
 <br clear="both">
 
-![snake gif](https://github.com/hasanha/hasanha/blob/output/github-contribution-grid-snake.gif)
+
