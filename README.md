@@ -38,5 +38,4 @@
 
 <br clear="both">
 
-![Snake animation]
-(https://github.com/hasanha/hasanha/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/hasanha/hasanha/blob/output/github-contribution-grid-snake.svg)
