@@ -25,7 +25,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsukC3qQpu3XwR1J5NDpOJLz1mrn7YqfEioQJoLDP_fg&s" height="30" alt="css3 logo"  />
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-sass-3521691-2945135.png?f=webp&w=256" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
