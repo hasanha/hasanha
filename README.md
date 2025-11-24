@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Hasan Hammadeh and I'm an Inforamtion Technology Engineering and work as Front-end developer , from Syria</h2>
+<h2 align="left">Hi 👋! My name is Hasan Hamadeh and I'm an Inforamtion Technology Engineering and work as Front-end developer , from Syria</h2>
 
 ###
 
